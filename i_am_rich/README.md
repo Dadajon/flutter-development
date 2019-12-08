@@ -1,3 +1,5 @@
+<img src="https://upload.wikimedia.org/wikipedia/en/8/82/I_Am_Rich_sale_screen.png" align="right" width="10%"
+
 # i_am_rich
 
 A new Flutter application.

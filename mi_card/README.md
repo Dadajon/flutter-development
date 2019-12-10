@@ -2,6 +2,12 @@
 
 # Mi Card
 
+> IDE
+
+![flutter](https://img.shields.io/badge/Flutter-1.9.1%2Bhotfix.6-blue)
+![Dart](https://img.shields.io/badge/Dart-2.5.0-orange)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3.5.3-green)
+
 ## Our Goal
 
 Now that you've seen how to create a Flutter app entirely from scratch, we're going to go further and learn more about how to design user interfaces for Flutter apps.

@@ -3,6 +3,12 @@
 
 # Quizzler ❓
 
+> IDE
+
+![flutter](https://img.shields.io/badge/Flutter-1.12.13+hotfix.5-blue)
+![Dart](https://img.shields.io/badge/Dart-2.7.0-orange)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-3.5.3-green)
+
 ## Our Goal
 
 In this tutorial we will be reviewing Stateful and Stateless Widgets as well as learning about the fundamental building blocks of Object Oriented Programming (OOP) - Classes and Objects. 
